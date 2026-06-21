@@ -29,7 +29,7 @@
 
 ```ts
 const shaurya = {
-  role: "Full-Stack & AI Developer",
+  role: "Tech Enthusiast",
   location: "India 🇮🇳",
   building: ["AI-powered web apps", "tools that ship to real users"],
   currentProject: "CMD//SIGNAL — an AI job-search command center",
